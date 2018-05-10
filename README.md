@@ -1,7 +1,7 @@
 # DataScienceProjects
 *A documentation of my exploration into data science.*
 
-# My learning path
+## My learning path
 - [X] Start learning Python
 - [X] Introductory course into Data Science
 - [ ] Get basic understanding of Computer Science
